@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou @Gznkkj
 - 👀 Estou interessado em tornar o mundo um lugar mais pacífico.
 - 🌱 Atualmente estou aprendendo; Javascript, python e algumas aplicaçoes em html e css.
-- 📫  Entre em contato comigo no meu discord; ! RD Gzn#0007.
+- 📫  Entre em contato comigo no meu discord; ! RD Gzn#0007, ou no meu server; https://discord.gg/realdrip
 
 <!---
 Gznkkj/Gznkkj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
